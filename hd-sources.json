@@ -1,0 +1,15 @@
+{
+  "name": "LibreTV 高清源精选",
+  "version": 2,
+  "sources": [
+    {"name": "量子资源", "url": "http://cj.lziapi.com/api.php/provide/vod"},
+    {"name": "电影天堂", "url": "http://caiji.dyttzyapi.com/api.php/provide/vod"},
+    {"name": "非凡影视", "url": "http://ffzy5.tv/api.php/provide/vod"},
+    {"name": "非凡2", "url": "http://cj.ffzyapi.com/api.php/provide/vod"},
+    {"name": "艾旦影视", "url": "http://lovedan.net/api.php/provide/vod"},
+    {"name": "飘零资源", "url": "https://p2100.net/api.php/provide/vod"},
+    {"name": "最大资源", "url": "http://zuidazy.me/api.php/provide/vod"},
+    {"name": "360资源", "url": "https://360zy.com/api.php/provide/vod"}
+  ],
+  "liveSources": []
+}
