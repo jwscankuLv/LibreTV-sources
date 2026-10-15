@@ -9,7 +9,9 @@
     {"name": "艾旦影视", "url": "http://lovedan.net/api.php/provide/vod"},
     {"name": "飘零资源", "url": "https://p2100.net/api.php/provide/vod"},
     {"name": "最大资源", "url": "http://zuidazy.me/api.php/provide/vod"},
-    {"name": "360资源", "url": "https://360zy.com/api.php/provide/vod"}
+    {"name": "360资源", "url": "https://360zy.com/api.php/provide/vod"},
+    {"name": "无尽资源", "url": "https://api.wujinapi.com/api.php/provide/vod"},
+    {"name": "百度云", "url": "https://api.apibdzy.com/api.php/provide/vod"}
   ],
   "liveSources": []
 }
