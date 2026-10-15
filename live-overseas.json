@@ -1,0 +1,9 @@
+{
+  "name": "LibreTV 海外直播（可选）",
+  "version": 2,
+  "liveSources": [
+    {"name": "美国综合频道", "url": "https://iptv-org.github.io/iptv/countries/us.m3u"},
+    {"name": "全球电影频道", "url": "https://iptv-org.github.io/iptv/categories/movies.m3u"},
+    {"name": "全球纪录片频道", "url": "https://iptv-org.github.io/iptv/categories/documentary.m3u"}
+  ]
+}
